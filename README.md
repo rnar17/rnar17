@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Ronit:
 I'm a third-year Computer Engineering student at UBC with a strong interest in low-level programming, embedded systems, robotics, and backend development.
 
 
