@@ -1,5 +1,9 @@
-# Hi 👋 I'm Ronit Narayanan:
+<h1 align="center">#👋 Hi, I'm Ronit Narayanan</h1>
+
+<p align="center">
 I'm a third-year Computer Engineering student at UBC with a strong interest in low-level programming, embedded systems, robotics, and backend development.
+</p>
+
 
 
 ## 🌐 Socials:
