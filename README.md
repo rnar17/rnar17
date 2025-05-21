@@ -1,5 +1,5 @@
 # Hi, I'm Ronit Narayanan
-I'm a third-year Computer Engineering student at UBC with a strong interest in low-level programming, embedded systems, robotics, and backend development.
+I'm a third-year Computer Engineering student at UBC with a strong interest in systems programming, embedded systems, robotics, and backend development.
 
 
 
